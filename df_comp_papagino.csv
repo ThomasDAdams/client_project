@@ -1,0 +1,98 @@
+Store,Univ,Restaurant Name,INSTNM,Distance
+0,86,Derry,Lincoln Technical Institute-Lowell,9.620209044609462
+1,73,Rockingham,EINE Inc,5.98511430722395
+2,113,Gilford,Lakes Region Community College,2.812440177786468
+3,107,"Rochester, NH (Lilac)",Empire Beauty School-Somersworth,10.910740702843475
+4,117,Concord,Granite State College,2.031957317359339
+5,107,Seabrook,Empire Beauty School-Somersworth,13.010930249851521
+6,20,Plaistow,Cape Cod Community College,7783.502417862198
+7,107,Dover,Empire Beauty School-Somersworth,0.5514853900305179
+8,123,Merrimack,Harmony Health Care Institute,1.5396136170096195
+9,86,Londonderry,Lincoln Technical Institute-Lowell,9.356710895824984
+10,109,"Manchester, Maple Tree",Southern New Hampshire University,0.8622479463979212
+11,105,"Hudson, NH",Continental Academie of Hair Design-Hudson,0.22966917455828287
+12,95,Lincoln,Tri County Regional Vocational Technical High School,8.29685344871619
+13,95,Woonsocket,Tri County Regional Vocational Technical High School,6.481932706724452
+14,75,E. Providence,Motoring Technical Training Institute,1.808539825690126
+15,75,Warren,Motoring Technical Training Institute,7.451609175899689
+16,95,W. Warwick,Tri County Regional Vocational Technical High School,17.33800942597697
+17,95,Smithfield,Tri County Regional Vocational Technical High School,14.45823366232714
+18,0,Mansfield,Eastern Connecticut State University,1.9973457553209428
+19,23,Hyde Park,Curry College,0.9901071211233629
+20,92,"Foxboro, Rt. 140",Universal Technical Institute of Massachusetts Inc,7.2265781541919445
+21,43,Braintree,Massachusetts School of Barbering,2.5282454150657494
+22,15,Norwell,Bridgewater State University,12.125831894271448
+23,75,S. Attleboro,Motoring Technical Training Institute,5.894607011786379
+24,25,"Franklin, E. Central St.",Dean College,1.3606561851602827
+25,89,Framingham,Empire Beauty School-Framingham,2.3717323863653923
+26,46,Gardner,Mount Wachusett Community College,1.2603758897326254
+27,73,Tewksbury,EINE Inc,1.700847444884609
+28,17,"Brockton, Crescent St.",Signature Healthcare Brockton Hospital School of Nursing,0.26132759479722745
+29,41,Wareham,Massachusetts Maritime Academy,4.72482476922462
+30,78,Pittsfield,Mildred Elley-Pittsfield Campus,5.716644195065759
+31,63,Raynham,Rob Roy Academy-Taunton,4.683930905702079
+32,15,Hanover,Bridgewater State University,15.493326496488026
+33,91,"Plymouth, Samoset St.",Spa Tech Institute-Plymouth,3.6012638467227895
+34,18,Charlestown,Bunker Hill Community College,0.45780133780206617
+35,86,Chelmsford,Lincoln Technical Institute-Lowell,3.606694727778382
+36,90,Westboro,Spa Tech Institute-Westboro,2.113826839229825
+37,91,Kingston,Spa Tech Institute-Plymouth,3.9326440873000807
+38,52,N. Adams,Massachusetts College of Liberal Arts,1.165181253887236
+39,20,S. Yarmouth,Cape Cod Community College,20.962801684280585
+40,74,"Burlington, 3A",Shawsheen Valley School of Practical Nursing,2.385305993798653
+41,51,Waltham,New England School of Photography,1.4088129895179362
+42,20,Orleans,Cape Cod Community College,39.431726799103835
+43,83,Dedham,FINE Mortuary College,3.0650466968570838
+44,43,Weymouth,Massachusetts School of Barbering,6.446417487670567
+45,59,Leominster,Salter College-West Boylston,8.108365568323617
+46,42,"Worcester, Grafton St.",University of Massachusetts Medical School Worcester,1.098264585214194
+47,89,Sudbury,Empire Beauty School-Framingham,3.981151882066277
+48,69,"Stoughton, Washington St.",Blue Hills Regional Technical School,1.636567293814287
+49,56,"Natick, Rt. 9",Pope St John XXIII National Seminary,3.176864388962521
+50,80,Wilbraham,Jolie Hair and Beauty Academy-Ludlow,0.3207966408935815
+51,76,"Brockton, Belmont St.",Ailano School of Cosmetology,1.106660182097556
+52,31,"Framingham, Rt. 9",Framingham State University,0.7139426180087862
+53,39,Dorchester,University of Massachusetts-Boston,1.3924751396791017
+54,58,"Worcester, W. Boylston St.",Quinsigamond Community College,0.22332519462201178
+55,75,Plainville,Motoring Technical Training Institute,8.144713007682586
+56,26,"Fall River, Elsbree St.",Diman Regional Technical Institute,0.5943505218150928
+57,4,Auburn,Assumption College,3.588519422615145
+58,75,Attleboro,Motoring Technical Training Institute,7.152376189454127
+59,15,Bridgewater,Bridgewater State University,0.4077072584918729
+60,87,Falmouth,National Graduate School of Quality Management,1.5016614076884753
+61,15,Whitman,Bridgewater State University,4.44565560413958
+62,29,"Fall River, Bishop Blvd.",Rob Roy Academy-Fall River,1.6933525862185206
+63,38,"Quincy, Granite St.",Mansfield Beauty Schools-Quincy,0.31439429701013283
+64,47,Fairhaven,Rob Roy Academy-New Bedford,4.129110727992277
+65,97,Haverhill,New England Tractor Trailer Training School of Massachusetts,1.4382901848593215
+66,95,Medway,Tri County Regional Vocational Technical High School,2.2289445541432156
+67,17,S. Weymouth,Signature Healthcare Brockton Hospital School of Nursing,4.762942933243343
+68,4,Holden,Assumption College,2.4754157366445937
+69,4,Webster,Assumption College,10.504122717411777
+70,63,Taunton,Rob Roy Academy-Taunton,3.25024985546376
+71,92,"Foxboro, Rt. 1",Universal Technical Institute of Massachusetts Inc,7.331702877540039
+72,94,N. Reading,Millennium Training Institute,3.5034023758366306
+73,61,Easton,Stonehill College,0.42171843519931035
+74,78,Melrose,Mildred Elley-Pittsfield Campus,886.4279612779902
+75,90,Uxbridge,Spa Tech Institute-Westboro,7.142043822456808
+76,95,"Franklin, Village Shopping Center",Tri County Regional Vocational Technical High School,0.1934806029522319
+77,15,Middleboro,Bridgewater State University,4.211498709857426
+78,64,Medfield,Wellesley College,3.7542027478969406
+79,91,"Plymouth, Carver Rd. Rt. 44",Spa Tech Institute-Plymouth,0.7650555135586992
+80,57,Centerville,Quincy College,15.066842398556151
+81,73,"Tewksbury, Heartland",EINE Inc,3.7327493634740967
+82,31,"Milford, Cape  Rd.",Framingham State University,10.895796091909247
+83,42,Shrewsbury,University of Massachusetts Medical School Worcester,1.3698387752832528
+84,63,Taunton,Rob Roy Academy-Taunton,0.4933980751289938
+85,83,Norwood Dual,FINE Mortuary College,0.5775220298184526
+86,45,Saugus Dual,MGH Institute of Health Professions,5.634302779143968
+87,43,Weymouth Dual,Massachusetts School of Barbering,7.49612268106957
+88,5,Worcester Lincoln Plaza Dual,Bancroft School of Massage Therapy,1.0045752475692133
+89,29,Somerset Dual,Rob Roy Academy-Fall River,3.563283689484838
+90,35,Stoneham Dual,Lawrence Memorial Hospital School of Nursing,2.6038885980726665
+91,78,Lee Mass Pike,Mildred Elley-Pittsfield Campus,5.197639740132631
+92,90,Westboro Mass Pike West,Spa Tech Institute-Westboro,3.6440553824355084
+93,46,Charlton Mass Pike East,Mount Wachusett Community College,16.19261186954726
+94,42,Charlton Mass Pike West,University of Massachusetts Medical School Worcester,1.7484862147638813
+95,74,Natick Travel Plaza (Mass Pike),Shawsheen Valley School of Practical Nursing,5.551204139854453
+96,1,Bradley Airport,Branford Hall Career Institute-Windsor Campus,2.550135446816854

@@ -1,0 +1,98 @@
+,Restaurant Name,Address,City,State,lat,lon
+0,Derry,"55 Crystal Avenue, Derry, NH",Derry,NH,42.8907762,-71.3236874
+1,Rockingham,"99 Cluff Crossing Rd, Salem, NH",Salem,NH,42.765198,-71.218364
+2,Gilford,"1425 Lake Shore Rd, Gilford, NH",Gilford,NH,43.561678,-71.4440464
+3,"Rochester, NH (Lilac)","10 Lilac Mall Rd, Rochester, NH",Rochester,NH,43.3183252,-70.975414
+4,Concord,"129 Loudon Road, Concord, NH",Concord,NH,43.2145821,-71.5102953
+5,Seabrook,"809 Lafayette Road, Seabrook, NH",Seabrook,NH,42.874347,-70.870195
+6,Plaistow,"9 Plaistow Road, Plaistow, NH",Plaistow,NH,51.066562,-0.5687992
+7,Dover,"829 Central Avenue, Dover, NH",Dover,NH,43.2160962,-70.8796213
+8,Merrimack,"3 Continental Boulevard, Merrimack, NH",Merrimack,NH,42.8384409,-71.4969146
+9,Londonderry,"44 Nashua Road, Londonderry, NH",Londonderry,NH,42.8662108,-71.3488051
+10,"Manchester, Maple Tree","545 Hooksett Rd Unit 1, Manchester, NH",Manchester,NH,43.0148286,-71.4506324
+11,"Hudson, NH","77 Derry Road, Hudson, NH",Hudson,NH,42.7750804,-71.443157
+12,Lincoln,"622 George Washington Highway, Lincoln, RI",Lincoln,RI,41.938839,-71.4773228
+13,Woonsocket,"1750 Diamond Hill Road, Woonsocket, RI",Woonsocket,RI,42.015618,-71.474162
+14,E. Providence,"80 Highland Avenue, E. Providence, RI",E. Providence,RI,41.8054576,-71.3405933
+15,Warren,"623 Metacom Avenue, Warren, RI",Warren,RI,41.699293,-71.264786
+16,W. Warwick,"700 E. Greenwich Avenue, W. Warwick, RI",W. Warwick,RI,41.673617,-71.5015618
+17,Smithfield,"400 Putnam Pike, Smithfield, RI",Smithfield,RI,41.8694885,-71.5301905
+18,Mansfield,"95 Storrs Road, #95, Willimantic, CT",Willimantic,CT,41.730223,-72.20097
+19,Hyde Park,"1270 River Street, Hyde Park, MA",Hyde Park,MA,42.255818,-71.1233485
+20,"Foxboro, Rt. 140","8 Commercial Street, Foxboro, MA",Foxboro,MA,42.06538,-71.24783
+21,Braintree,"240 Grove Street, Braintree, MA",Braintree,MA,42.191615,-70.9882187
+22,Norwell,"10 Washington Street, Norwell, MA",Norwell,MA,42.17421,-70.8840822
+23,S. Attleboro,"283 Washington Street, S. Attleboro, MA",S. Attleboro,MA,41.9207523,-71.3582858
+24,"Franklin, E. Central St.","267 E. Central Street, Franklin, MA",Franklin,MA,42.0803384,-71.3856858
+25,Framingham,"341 Cochituate Road, Framingham, MA",Framingham,MA,42.3034149,-71.4009312
+26,Gardner,"326 Timpany Boulevard, Gardner, MA",Gardner,MA,42.5600487,-71.9890378
+27,Tewksbury,"1900 Main Street, Tewksbury, MA",Tewksbury,MA,42.5909604,-71.2052603
+28,"Brockton, Crescent St.","675 Crescent Street, Brockton, MA",Brockton,MA,42.080815,-70.992408
+29,Wareham,"2899 Cranberry Highway, Wareham, MA",Wareham,MA,41.7594698,-70.6660612
+30,Pittsfield,"685 Merrill Road, Pittsfield, MA",Pittsfield,MA,42.4656809,-73.2052406
+31,Raynham,"430 New State Hwy, Raynham, MA",Raynham,MA,41.906243,-71.049839
+32,Hanover,"1422 Washington Street, Hanover, MA",Hanover,MA,42.1457451,-70.8450937
+33,"Plymouth, Samoset St.","1 Samoset Street, Plymouth, MA",Plymouth,MA,41.958896,-70.672046
+34,Charlestown,"19 Austin Street, Charlestown, MA",Charlestown,MA,42.3750024,-71.0651438
+35,Chelmsford,"29 Chelmsford Street, Chelmsford, MA",Chelmsford,MA,42.5980746,-71.3499329
+36,Westboro,"164 Milk Street, Westboro, MA",Westboro,MA,42.2706691,-71.6172867
+37,Kingston,"182 Summer Street, Kingston, MA",Kingston,MA,42.0117598,-70.7351601
+38,N. Adams,"36 American Legion, North Adams, MA",North Adams,MA,42.698311,-73.113106
+39,S. Yarmouth,"940 Main Street, S. Yarmouth, MA",S. Yarmouth,MA,41.6676977,-70.1488702
+40,"Burlington, 3A","179 Cambridge Street, Burlington, MA",Burlington,MA,42.5099206,-71.2000257
+41,Waltham,"1018 Lexington Street, Waltham, MA",Waltham,MA,42.4103197,-71.2344004
+42,Orleans,"Rt. 6a Cranberry Hwy, Orleans, MA",Orleans,MA,41.793982,-69.984188
+43,Dedham,"600 Providence Highway, Dedham, MA",Dedham,MA,42.2433546,-71.1738914
+44,Weymouth,"770 Washington Street, Weymouth, MA",Weymouth,MA,42.2021542,-70.945792
+45,Leominster,"35 Commercial Street, Leominster, MA",Leominster,MA,42.531474,-71.741324
+46,"Worcester, Grafton St.","915 Grafton Street, Worcester, MA",Worcester,MA,42.2471167,-71.7600859
+47,Sudbury,"104 Boston Post Road, Sudbury, MA",Sudbury,MA,42.3634798,-71.3931299
+48,"Stoughton, Washington St.","319 Washington Street, Stoughton, MA",Stoughton,MA,42.1370526,-71.1023475
+49,"Natick, Rt. 9","291 Worcester Street, Natick, MA",Natick,MA,42.3028042,-71.3371339
+50,Wilbraham,"1876 Boston Road, Wilbraham, MA",Wilbraham,MA,42.1482405,-72.4802791
+51,"Brockton, Belmont St.","885 Belmont Street, Brockton, MA",Brockton,MA,42.066395,-71.0533239
+52,"Framingham, Rt. 9","1133 Worcester Road, Framingham, MA",Framingham,MA,42.2993726,-71.4439494
+53,Dorchester,"748 Gallivan Boulevard, Dorchester, MA",Dorchester,MA,42.2847043,-71.0454217
+54,"Worcester, W. Boylston St.","681 W. Boylston Street, Worcester, MA",Worcester,MA,42.3153524,-71.7969795
+55,Plainville,"15 Taunton Street, Plainville, MA",Plainville,MA,42.012679,-71.3057084
+56,"Fall River, Elsbree St.","307 Elsbree Street, Fall River, MA",Fall River,MA,41.7134049,-71.1278079
+57,Auburn,"459 Southbridge Street, Auburn, MA",Auburn,MA,42.1986272,-71.8414245
+58,Attleboro,"103 Pleasant Street, Attleboro, MA",Attleboro,MA,41.9887914,-71.3379494
+59,Bridgewater,"233 Broad Street, Bridgewater, MA",Bridgewater,MA,41.996842,-70.972512
+60,Falmouth,"56 Davis Straits, Falmouth, MA",Falmouth,MA,41.5579322,-70.600286
+61,Whitman,"674 Bedford Street, Whitman, MA",Whitman,MA,42.0796329,-70.948152
+62,"Fall River, Bishop Blvd.","340 Mariano S. Bishop Boulevard, Fall River, MA",Fall River,MA,41.67149,-71.170068
+63,"Quincy, Granite St.","100 Granite Street, Quincy, MA",Quincy,MA,42.246032,-71.005932
+64,Fairhaven,"171 Huttleston Avenue, Fairhaven, MA",Fairhaven,MA,41.64227,-70.8893178
+65,Haverhill,"782 River Street, Haverhill, MA",Haverhill,MA,42.7706032,-71.1146842
+66,Medway,"74 Main Street, Medway, MA",Medway,MA,42.1518978,-71.4130293
+67,S. Weymouth,"532 Pond Street, S. Weymouth, MA",S. Weymouth,MA,42.1521275,-70.954116
+68,Holden,"797 Main Street, Holden, MA",Holden,MA,42.3420945,-71.8455309
+69,Webster,"128 E. Main Street, Webster, MA",Webster,MA,42.0489365,-71.884677
+70,Taunton,"294 Winthrop Street, Taunton, MA",Taunton,MA,41.8890291,-71.120914
+71,"Foxboro, Rt. 1","211 North Street, Foxboro, MA",Foxboro,MA,42.1028391,-71.2586613
+72,N. Reading,"103 Main Street, N. Reading, MA",N. Reading,MA,42.5767023,-71.1099847
+73,Easton,"594 Washington Street, Easton, MA",Easton,MA,42.0473518,-71.0805093
+74,Melrose,"417 Main Street, Melrose, MA",Melrose,MA,33.9907545,-81.0289656
+75,Uxbridge,"158 N. Main Street, Uxbridge, MA",Uxbridge,MA,42.0820916,-71.6378378
+76,"Franklin, Village Shopping Center","245 Franklin Village Drive, Franklin, MA",Franklin,MA,42.0896606,-71.422006
+77,Middleboro,"438 West Grove Street, Middleboro, MA",Middleboro,MA,41.8961649,-70.9511232
+78,Medfield,"10 C North Meadows Road, Medfield, MA",Medfield,MA,42.1874142,-71.311858
+79,"Plymouth, Carver Rd. Rt. 44","81 Carver Road, Plymouth, MA",Plymouth,MA,41.9448548,-70.7096616
+80,Centerville,"105 Bell Tower Mall, Centerville, MA",Centerville,MA,42.548225,-70.908256
+81,"Tewksbury, Heartland","553 Main Street, Tewksbury, MA",Tewksbury,MA,42.6183625,-71.2533433
+82,"Milford, Cape  Rd.","42 Cape Road, Milford, MA",Milford,MA,42.1272613,-71.5194339
+83,Shrewsbury,"20 Boston Turnpike Road, Shrewsbury, MA",Shrewsbury,MA,42.2747973,-71.7498579
+84,Taunton,"65-F Taunton Depot Road, Taunton, MA",Taunton,MA,41.888819,-71.090693
+85,Norwood Dual,"134 Nahatan Street, Norwood, MA",Norwood,MA,42.1925352,-71.1967125
+86,Saugus Dual,"385 Broadway, Saugus, MA",Saugus,MA,42.4868556,-71.0186486
+87,Weymouth Dual,"765 Bridge Street, Weymouth, MA",Weymouth,MA,42.2456051,-70.9344371
+88,Worcester Lincoln Plaza Dual,"537 Lincoln Street, Worcester, MA",Worcester,MA,42.2944809,-71.7738601
+89,Somerset Dual,"869 GAR Highway, Somerset, MA",Somerset,MA,41.7404068,-71.1867983
+90,Stoneham Dual,"190 Main Street, Stoneham, MA",Stoneham,MA,42.4895175,-71.0998471
+91,Lee Mass Pike,"P.O. Box 983, 370 Stockbridge Rd, Lee, MA",Lee,MA,42.295028,-73.271268
+92,Westboro Mass Pike West,"P.O. Box 84, Westboro, MA",Westboro,MA,42.251596,-71.66664
+93,Charlton Mass Pike East,"166 Sturbridge Road, Charlton, MA",Charlton,MA,42.1386929,-72.023128
+94,Charlton Mass Pike West,"P.O. Box 968, Charlton City, MA",Charlton City,MA,42.316494,-71.752026
+95,Natick Travel Plaza (Mass Pike),"117 Mass Turnpike West, Natick, MA",Natick,MA,42.535134,-71.267742
+96,Bradley Airport,"11 Schoephoester Road, Windsor Locks, CT",Windsor Locks,CT,41.927347,-72.6847106
