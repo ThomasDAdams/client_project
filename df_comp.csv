@@ -1,0 +1,84 @@
+Store,Univ,Restaurant Name,INSTNM,Distance
+0,32,Weymouth Dual,Massachusetts School of Barbering,7.274241366919227
+1,68,Somerset Dual,Salter School-Fall River,1.3032527121758966
+2,66,Westboro Mass Pike West,Spa Tech Institute-Westboro,3.288096747540942
+3,2,Charlton Mass Pike East,Assumption College,13.678787849555034
+4,35,Charlton Mass Pike West,Mount Wachusett Community College,17.301767778111863
+5,49,Natick Travel Plaza (Mass Pike),Wellesley College,4.775466034354091
+6,50,Wethersfield,Western New England University,20.67565574280264
+7,58,Keene,Jolie Hair and Beauty Academy-Ludlow,33.871409778402686
+8,25,Cranston,Framingham State University,18.41939148525346
+9,62,Southington,Branford Hall Career Institute-Springfield Campus,42.09523224902923
+10,66,Coventry,Spa Tech Institute-Westboro,22.628304036313008
+11,25,W. Warwick,Framingham State University,22.849029343896085
+12,34,"Brockton, Pleasant St.",MGH Institute of Health Professions,8.858049219386393
+13,81,"Concord, S. Main St.",Granite State College,0.5130889957316921
+14,64,Falmouth,National Graduate School of Quality Management,0.9642926611413448
+15,68,"Fall River, N. Main St.",Salter School-Fall River,0.6823632168408186
+16,23,"Fall River, Canning Blvd.",Rob Roy Academy-Fall River,0.905312042178458
+17,68,"Fall River, Plymouth Ave.",Salter School-Fall River,0.779128901554483
+18,48,Raynham,Rob Roy Academy-Taunton,5.527227818879133
+19,12,Rockland,Bridgewater State University,8.31170326581632
+20,21,Portsmouth,Eastern Nazarene College,38.42825521184829
+21,65,"Warwick, Warwick Ave.",Empire Beauty School-Framingham,20.018601580995032
+22,17,Woburn,Catherine Hinds Institute of Esthetics,0.5974472665646752
+23,78,"Concord, Loudon Rd.",University of New Hampshire-School of Law,0.2758181876008846
+24,66,N. Kingstown,Spa Tech Institute-Westboro,30.29602051714579
+25,65,Pawtucket,Empire Beauty School-Framingham,15.576780166999153
+26,25,"Warwick, Lambert Hwy.",Framingham State University,20.551363072423378
+27,50,Enfield,Western New England University,8.230836318235852
+28,34,Marlboro,MGH Institute of Health Professions,16.14432530374073
+29,48,Taunton,Rob Roy Academy-Taunton,3.1267195088132267
+30,36,New Bedford,Rob Roy Academy-New Bedford,2.1642986666384614
+31,77,Laconia,Empire Beauty School-Laconia,1.6966106644547536
+32,50,Cromwell,Western New England University,24.355374669142524
+33,25,Smithfield,Framingham State University,18.054317279116212
+34,64,S. Dennis,National Graduate School of Quality Management,51.428714599148606
+35,65,Framingham,Empire Beauty School-Framingham,4.153948995581109
+36,25,Woonsocket,Framingham State University,14.032817661325526
+37,7,"Waltham, River St.",Bentley University,0.8288071192926678
+38,56,Avon,Lincoln Technical Institute-Brockton,1.8664914312975904
+39,25,"Warwick, Jefferson Blvd.",Framingham State University,19.806899932658062
+40,79,"Manchester, Second St.",University of New Hampshire at Manchester,1.340924346766418
+41,82,"Manchester, Perimeter Rd.",New Hampshire Institute of Art,2.48660940827187
+42,49,Plainville,Wellesley College,10.085991445751308
+43,29,"Quincy, Hancock St.",University of Massachusetts-Boston,1.159751056974076
+44,58,Vernon,Jolie Hair and Beauty Academy-Ludlow,10.823951214155132
+45,1,"Boston, Atlantic Ave. (Bus Station)",New England College of Business and Finance,0.19403288693697665
+46,23,Middletown,Rob Roy Academy-Fall River,17.222414387996004
+47,67,Foxboro,Universal Technical Institute of Massachusetts Inc,7.331702877540039
+48,26,"Boston X, Med. Ctr.",Benjamin Franklin Institute of Technology,0.5976171766912692
+49,58,"Ludlow, Mass Pike",Jolie Hair and Beauty Academy-Ludlow,3.9584245374951523
+50,66,Groton,Spa Tech Institute-Westboro,12.297076591376753
+51,12,Middleborough,Bridgewater State University,4.353107804313258
+52,12,Bridgewater II,Bridgewater State University,0.13039066555341466
+53,44,Fitchburg,Quinsigamond Community College,9.635901779819092
+54,27,Westerly,College of the Holy Cross,29.979976278668207
+55,49,South Attleborough,Wellesley College,14.428168691511903
+56,5,Canton,Bay State School of Technology,0.2842415385565755
+57,61,Mansfield,FINE Mortuary College,6.878399807506988
+58,5,Stoughton,Bay State School of Technology,3.4385438195788685
+59,70,Northampton,Salter College-Chicopee,13.577631640460572
+60,31,Leominster I,University of Massachusetts Medical School Worcester,9.073294820433038
+61,25,Wakefield,Framingham State University,26.954420197129313
+62,70,Holyoke,Salter College-Chicopee,11.437350408623686
+63,46,South Easton,Stonehill College,0.47538556253750963
+64,64,Portland,National Graduate School of Quality Management,86.18480323756232
+65,35,Gardner,Mount Wachusett Community College,0.9211201443390165
+66,64,South Portland,National Graduate School of Quality Management,83.51291671363627
+67,70,West Springfield,Salter College-Chicopee,10.941099693752912
+68,70,Westfield,Salter College-Chicopee,22.290824881638997
+69,64,Lewiston,National Graduate School of Quality Management,104.75985478836131
+70,2,Auburn,Assumption College,5.016417930089569
+71,50,North Haven,Western New England University,44.54744807828741
+72,49,Worcester I,Wellesley College,15.37738329230874
+73,70,Chicopee,Salter College-Chicopee,5.080688080019399
+74,55,Bridgewater II,Ailano School of Cosmetology,4.449125058885978
+75,58,Springfield,Jolie Hair and Beauty Academy-Ludlow,1.6432151638746972
+76,35,Worcester II,Mount Wachusett Community College,7.0029557320495375
+77,45,Raynham II,Southeastern Technical Institute,2.388129724802775
+78,64,East Wareham,National Graduate School of Quality Management,14.272872210305929
+79,64,Auburn,National Graduate School of Quality Management,104.25169971353272
+80,70,Greenfield,Salter College-Chicopee,17.10581082419573
+81,62,Windsor Locks (aka Bradley Airport),Branford Hall Career Institute-Springfield Campus,19.60907155575887
+82,64,Biddeford,National Graduate School of Quality Management,72.5025231104229
